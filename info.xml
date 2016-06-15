@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="com.skvare.ieimagefix" type="module">
+  <file>ieimagefix</file>
+  <name>IE Image Fix</name>
+  <description>Override to fix image handling for Internet Explorer for upload images</description>
+  <license>GPL-3.0</license>
+  <maintainer>
+    <author>Skvare,LLC</author>
+    <email>info@skvare.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://githun</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-06-15</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>Implementation of CRM-17717 for 4.6</comments>
+  <civix>
+    <namespace>CRM/Ieimagefix</namespace>
+  </civix>
+</extension>
